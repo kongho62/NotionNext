@@ -1,8 +1,8 @@
 const BLOG = {
-  title: '塘里博客',
-  author: '塘里1024',
-  email: 'tlyong1992@hotmail.com',
-  link: 'https://tangly1024.com',
+  title: 'Kongho's Blog',
+  author: 'kongho',
+  email: 'ho.jiang@qq.com',
+  link: 'www.kongho.ml',
   description: '分享编程技术与记录生活',
   lang: 'zh-CN', // ['zh-CN','en-US'] default lang => see /lib/lang.js for more.
   notionPageId: process.env.NOTION_PAGE_ID || 'bee1fccfa3bd47a1a7be83cc71372d83', // Important page_id！！！
